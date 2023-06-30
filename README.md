@@ -1,2 +1,2 @@
 # Hashing-Practice
-Practicing open-chaining
+Practicing chaining
